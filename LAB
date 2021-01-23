@@ -1,2 +1,5 @@
 -- LAB WAF
 https://github.com/vmleon/Oracle-WAF-Demo
+
+-- Migrate Weblogic/Database to OCI Lab
+https://oracle.github.io/cloudtestdrive/AppDev/wls/ll-jrf/?lab=introduction-lab
